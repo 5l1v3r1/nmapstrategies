@@ -2,5 +2,5 @@
 Script that automates nmap scans
 > Usage
 ``
-./nmapstrategies
+./nmapstrategies.sh
 ``
