@@ -145,7 +145,7 @@ elif [[ $scan == '19' ]]
 
 elif [[ $scan == '20' ]]
     then
-	nmap -v --script "all"
+	nmap -v --script "all" $target
 
 elif [[ $scan == '21' ]]
     then
